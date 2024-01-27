@@ -142,7 +142,7 @@ def draw(root: Tk, canvas: Canvas, heart: Heart, frame=0):
 
 if __name__ == '__main__':
     root = Tk()
-    root.title('漂亮宝贝一周年快乐')
+    root.title('亮瞎你的眼~~')
     canvas = Canvas(root, bg='black', height=CANVAS_HEIGHT, width=CANVAS_WIDTH)
     canvas.pack()
     heart = Heart(20)
